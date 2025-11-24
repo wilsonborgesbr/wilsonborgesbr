@@ -88,7 +88,7 @@ Me chamo Wilson Borges , tenho 27 anos e sou natural  da Bahia. Atualmente, esto
 <img 
       align="down" 
       alt="ROINC"  
-      height= "80"
+      height= "100"
       src="https://media1.tenor.com/m/QFbizEJ5TsUAAAAd/accel-world.gif" 
 />
 
