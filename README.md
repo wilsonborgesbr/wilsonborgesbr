@@ -2,7 +2,7 @@
 
 **`Aluno de Análise e Desenvolvimento de Sistemas (ADS)`**
 
-Me chamo Wilson Borges , tenho 27 anos e sou natural  da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU e aprofundo meu conhecimento através de escolas de tecnologia (Alura/EBAC/Trybe/Udemy). Sou apaixonado por tecnologia e desejo obter uma oportunidade na área.
+Me chamo Wilson Borges , tenho 27 anos e sou natural  da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aprofundo meu conhecimento através de escolas de tecnologia (Alura/EBAC/Trybe/Udemy). Sou apaixonado por tecnologia e desejo obter uma oportunidade na área.
 
 
 <p align="left">
